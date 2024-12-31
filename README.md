@@ -49,4 +49,4 @@ I need to improve creating tables and styling pseudo elements.
 - [Table](https://www.htmltables.io/) easier to create tags for table. I usually mess up with `tr` and `td`. This was useful to some extend to create the table, number of rows and columns.
 
 ## Author
-**Frontend Mentor - [@sdkdeeps](https://www.frontendmentor.io/profile/sdkdeepa)**
+**Frontend Mentor - [@sdkdeepa](https://www.frontendmentor.io/profile/sdkdeepa)**
